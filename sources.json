@@ -2,6 +2,15 @@
   "status": "ok",
   "sources": [
     {
+      "id": "swiss-news",
+      "name": "CH-News"
+      "description": "Neuikgeiten aus der Schweiz",
+      "url": "https://newsapi.org",
+      "category": "general",
+      "language": "de",
+      "country": "ch"
+    },
+    {
       "id": "abc-news",
       "name": "ABC News",
       "description": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com.",
