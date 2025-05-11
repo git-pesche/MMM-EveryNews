@@ -5,33 +5,35 @@
  */
 
 .MMM-EveryNews .header {
-  color: cyan;             /* Color the title text. Default is white. */
+  color: white;             /* Color the title text. Default is white. */
   text-align: center;           /* Align the title text. (left, center, right) */
   /*  display: none; */         /* Uncomment if you don't want title text */
 }
 
 .MMM-EveryNews .source {
-  color: cyan;             /* Color the title text. Default is white. */
+  color: white;             /* Color the title text. Default is white. */
   text-align: center;           /* Align the title text. (left, center, right) */
+  font-size: 32px;
   /*  display: none; */         /* Uncomment if you don't want title text */
 }
 
 .MMM-EveryNews .title {
-  color: cyan;             /* Color the title text. Default is white. */
+  color: white;             /* Color the title text. Default is white. */
   text-align: center;           /* Align the title text. (left, center, right) */
+  font-size: 26px;
   /*  display: none; */         /* Uncomment if you don't want title text */
 }
 
 .MMM-EveryNews .photo {
-    width: 350px;             /* Maximum width of image */
-    height: 350px
+    width: 800px;             /* Maximum width of image */
+    height: 800px
     padding: 0px;             /* Nudge image */
-    float: left;              /* Align the picture. (left, center, right) */
+    float: center;              /* Align the picture. (left, center, right) */
 }
 
 .MMM-EveryNews .description {
-  color: cyan;             /* Color the information. Default is white. */
+  color: white;             /* Color the information. Default is white. */
   text-align: center;           /* Align the information. (left, center, right) */
-  font-size: 18px;
+  font-size: 26px;
 /*  display: none; */         /* Uncomment if you don't want descriptive information */
 }
